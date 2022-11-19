@@ -1,0 +1,19 @@
+.container{
+    padding: 30px;
+    margin: auto;
+    width: 80%;
+    height: 500px;
+    background-color: aquamarine;
+    position: relative;
+
+}
+
+.container div{
+    padding: 30px;
+    border: 2px solid red;
+    width: 300px;
+    background-color: blue;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
